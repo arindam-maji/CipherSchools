@@ -1,0 +1,15 @@
+Integrating the Chatbot With Python or Web Applications
+
+keywords:
+Pandas - used for data manipulation and analysis
+nltk   - used for working with human language data based text
+TfidfVectoriser - used for converting the collection of raw document to matrix of tfidf features
+MultinomialNB   - used for text classification purpose
+make_pipline    - creates pipeline of transforms within the final estimater
+Train_test_split- splits dataset into training and tseting data
+dash, dcc(dash core component), html, dash.dependencies, Input, Output helps to import the dash libraries and their sub modules
+
+dcc and html content helps to create interactive UI component
+
+punk tokeniser from nltk library helps splitting sentences into words
+
